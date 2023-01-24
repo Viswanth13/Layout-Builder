@@ -1,0 +1,9 @@
+.layout-top-container {
+  background-color: #475569;
+  color: #f1f5f9;
+  padding: 20px;
+}
+
+.each-input-container {
+  display: flex;
+}

@@ -1,0 +1,11 @@
+.body-container {
+  padding: 15px;
+  display: flex;
+}
+
+.left-navbar-container,
+.content-container,
+.right-navbar-container,
+.right-nav-box {
+  border: 1px solid #000;
+}
